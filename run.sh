@@ -1,2 +1,2 @@
-javac Prob1.java
-java Prob1
+javac Prob5.java
+java Prob5
